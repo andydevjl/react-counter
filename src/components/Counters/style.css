@@ -1,0 +1,48 @@
+.buttons {
+    display: inline-grid;
+    align-items: center;
+    grid-gap: 2px;
+    margin: 45px;
+    font-size: 80px;
+    color: red;
+}
+
+.buttons-left {
+    background-color: rgba(0, 102, 255, 0.911);
+    align-items: center;
+    border-radius: 10px;
+    width: 60px;
+    height: 30px;
+    font-size: 25px;
+    padding: 0px;
+}
+
+.buttons-right {
+    background-color: rgba(255, 166, 0, 0.911);
+    border-radius: 10px;
+    width: 60px;
+    height: 30px;
+    font-size: 25px;
+    padding: 0px;
+}
+
+.reset-button-left {
+    background-color: crimson;
+    color: #fff;
+    border-radius: 10px;
+    width: 80px;
+    height: 30px;
+    font-size: 25px;
+    padding: 0px;
+}
+
+.reset-button-right {
+    background-color: crimson;
+    color: #fff;
+    border-radius: 10px;
+    width: 80px;
+    height: 30px;
+    font-size: 25px;
+    padding: 0px;
+}
+
